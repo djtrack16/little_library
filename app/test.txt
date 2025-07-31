@@ -1,0 +1,41 @@
+.
+├── __init__.py
+├── __pycache__
+│   ├── __init__.cpython-312.pyc
+│   ├── database.cpython-312.pyc
+│   ├── main.cpython-312.pyc
+│   ├── models.cpython-312.pyc
+│   ├── routes.cpython-312.pyc
+│   └── services.cpython-312.pyc
+├── database.py
+├── littlelibrary.db
+├── main.py
+├── models
+│   ├── __init__.py
+│   ├── __pycache__
+│   │   ├── __init__.cpython-312.pyc
+│   │   └── book.cpython-312.pyc
+│   ├── author.py
+│   └── book.py
+├── models.py
+├── routers
+│   └── books.py
+├── routes.py
+├── services
+│   ├── __init__.py
+│   ├── __pycache__
+│   │   ├── __init__.cpython-312.pyc
+│   │   └── book_service.cpython-312.pyc
+│   └── book_service.py
+├── test.txt
+└── tests
+    ├── __pycache__
+    │   └── book_test.cpython-312-pytest-8.4.1.pyc
+    ├── book_test.py
+    └── factories
+        ├── __pycache__
+        │   ├── book.cpython-312.pyc
+        │   └── book_factory.cpython-312.pyc
+        └── book_factory.py
+
+11 directories, 28 files
